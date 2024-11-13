@@ -1,3 +1,5 @@
+#Exemplo de função em Python 
+
 def somarDoisNumeros(a,b):
     resultado = a + b
     return resultado
